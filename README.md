@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @carlos J. Rosario
+- Electronical Engineer with the ability to Investigate, diagnose, design, build, evaluate, audit and maintain computer systems applied in the administrative, technical, scientific and social areas, ability to plan and develop the transfer, assimilation and use of information technology.
+- Prepared to: Design information systems according to the strategic requirements of the organization, Select the most appropriate hardware, software and communication technologies, Implement, maintain and innovate through software product implementation projects in various areas.
+- Possessor of great initiative and good communication, ability to work in a team, leadership capacity, responsible and proactive.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+carlosjrosario/carlosjrosario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
